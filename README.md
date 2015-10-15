@@ -79,3 +79,5 @@ Before you get started you may also need to add the following:
   $ curl -sS https://getcomposer.org/installer | php
   $ mv composer.phar /usr/local/bin/composer
 ```
+
+Added a small change
